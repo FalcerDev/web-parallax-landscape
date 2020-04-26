@@ -113,6 +113,20 @@ section {
   color: #fff;
 }
 
+.bottom .badge span {
+  font-size: 2em;
+  font-weight: bold;
+  margin-right: 0.3em;
+}
+
+.bottom .social a {
+  margin-right: 8px;
+}
+
+.bottom .social a:last-child {
+  margin-right: 0px;
+}
+
 /* Section content */
 .content {
   background-color: #000;
